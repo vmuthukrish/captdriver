@@ -27,3 +27,6 @@ deb http://ports.ubuntu.com/ubuntu-ports/ trusty-updates main
 deb-src http://ports.ubuntu.com/ubuntu-ports/ trusty-updates main
 deb http://ports.ubuntu.com/ubuntu-ports/ trusty-security main
 deb-src http://ports.ubuntu.com/ubuntu-ports/ trusty-security main
+
+
+sudo apt install -y build-essential git autoconf libtool cups libcups2-dev libcupsimage2-dev
