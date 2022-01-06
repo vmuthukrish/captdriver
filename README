@@ -20,3 +20,10 @@ The file "rastertocapt" has to be installed into CUPS manually.
 If you don't know how to do that, this driver is not for you. :)
 Automatic installation will not be done until the driver reaches
 beta stage to avoid misuse.
+
+deb http://ports.ubuntu.com/ubuntu-ports/ trusty main
+deb-src http://ports.ubuntu.com/ubuntu-ports/ trusty main
+deb http://ports.ubuntu.com/ubuntu-ports/ trusty-updates main
+deb-src http://ports.ubuntu.com/ubuntu-ports/ trusty-updates main
+deb http://ports.ubuntu.com/ubuntu-ports/ trusty-security main
+deb-src http://ports.ubuntu.com/ubuntu-ports/ trusty-security main
